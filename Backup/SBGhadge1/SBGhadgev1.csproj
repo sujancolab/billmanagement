@@ -1,0 +1,533 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{145954B6-F4FC-4A88-BA44-35CB06A856CE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SBGhadge1</RootNamespace>
+    <AssemblyName>SBGhadge1</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>logo1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="amounInWord.cs" />
+    <Compile Include="Amount Sheet\Class1.cs" />
+    <Compile Include="Amount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Amount.designer.cs">
+      <DependentUpon>Amount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AmountSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmountSheet.designer.cs">
+      <DependentUpon>AmountSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bill.designer.cs">
+      <DependentUpon>bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bill\Class1.cs" />
+    <Compile Include="Crp\DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Crp\DsMeasure.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DsMeasure.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DemoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DemoForm.designer.cs">
+      <DependentUpon>DemoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="description.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="description.designer.cs">
+      <DependentUpon>description.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Description\Class1.cs" />
+    <Compile Include="FlashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FlashScreen.Designer.cs">
+      <DependentUpon>FlashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="itemlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="itemlist.Designer.cs">
+      <DependentUpon>itemlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="majordal.cs" />
+    <Compile Include="majoritems.cs" />
+    <Compile Include="Measure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Measure.designer.cs">
+      <DependentUpon>Measure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeasurementSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeasurementSheet.designer.cs">
+      <DependentUpon>MeasurementSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Measurment\Class1.cs" />
+    <Compile Include="PointCanvas .cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PointCanvas .designer.cs" />
+    <Compile Include="PointCanvas 1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PointCanvas .resx</DependentUpon>
+    </Compile>
+    <Compile Include="printAmount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="printAmount.designer.cs">
+      <DependentUpon>printAmount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintAmountSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintAmountSheet.designer.cs">
+      <DependentUpon>PrintAmountSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Printbill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Printbill.designer.cs">
+      <DependentUpon>Printbill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Printing.cs" />
+    <Compile Include="PrintMeasure.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PrintMeasure.designer.cs">
+      <DependentUpon>PrintMeasure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintMeasurmentSheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintMeasurmentSheet.designer.cs">
+      <DependentUpon>PrintMeasurmentSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printsumarysheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printsumarysheet.designer.cs">
+      <DependentUpon>printsumarysheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Amount.resx">
+      <DependentUpon>Amount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmountSheet.resx">
+      <DependentUpon>AmountSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bill.resx">
+      <DependentUpon>bill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DemoForm.resx">
+      <DependentUpon>DemoForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="description.resx">
+      <DependentUpon>description.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FlashScreen.resx">
+      <DependentUpon>FlashScreen.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="itemlist.resx">
+      <DependentUpon>itemlist.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Measure.resx">
+      <DependentUpon>Measure.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeasurementSheet.resx">
+      <DependentUpon>MeasurementSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PointCanvas .resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PointCanvas 1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printAmount.resx">
+      <DependentUpon>printAmount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintAmountSheet.resx">
+      <DependentUpon>PrintAmountSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printbill.resx">
+      <DependentUpon>Printbill.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintMeasure.resx">
+      <DependentUpon>PrintMeasure.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintMeasurmentSheet.resx">
+      <DependentUpon>PrintMeasurmentSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printsumarysheet.resx">
+      <DependentUpon>printsumarysheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="RC.dbml.layout">
+      <DependentUpon>RC.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="RCSHEET.resx">
+      <DependentUpon>RCSHEET.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RptItemSummary.resx">
+      <DependentUpon>RptItemSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Search.resx">
+      <DependentUpon>Search.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Summary.resx">
+      <DependentUpon>Summary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SummarySheet.resx">
+      <DependentUpon>SummarySheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateMeasure.resx">
+      <DependentUpon>UpdateMeasure.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateRC1.resx">
+      <DependentUpon>UpdateRC1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserLogin.resx">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userSummary.resx">
+      <DependentUpon>userSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Crp\DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Crp\DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Crp\DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Images\SBGEXCL.xlsx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="RC.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RC.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="RCSHEET.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RCSHEET.designer.cs">
+      <DependentUpon>RCSHEET.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RptItemSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RptItemSummary.Designer.cs">
+      <DependentUpon>RptItemSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Search.designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Summary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Summary.designer.cs">
+      <DependentUpon>Summary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SummarySheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SummarySheet.designer.cs">
+      <DependentUpon>SummarySheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Summary\Class1.cs" />
+    <Compile Include="UpdateMeasure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateMeasure.designer.cs">
+      <DependentUpon>UpdateMeasure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateRC1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateRC1.Designer.cs">
+      <DependentUpon>UpdateRC1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserLogin.designer.cs">
+      <DependentUpon>UserLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userSummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="userSummary.designer.cs">
+      <DependentUpon>userSummary.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\amount.JPG" />
+    <Content Include="Images\amountsheet1.jpg" />
+    <Content Include="Images\amountsheet2.jpg" />
+    <Content Include="Images\bill.jpg" />
+    <Content Include="Images\bill1.jpg" />
+    <Content Include="Images\d1.jpg" />
+    <Content Include="Images\logo1.JPG" />
+    <Content Include="Images\measurement.jpg" />
+    <Content Include="Images\measurement1.jpg" />
+    <Content Include="Images\summary.jpg" />
+    <Content Include="Images\summary1.jpg" />
+    <None Include="Crp\DsMeasure.xsc">
+      <DependentUpon>DsMeasure.xsd</DependentUpon>
+    </None>
+    <None Include="Crp\DsMeasure.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DsMeasure.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Crp\DsMeasure.xss">
+      <DependentUpon>DsMeasure.xsd</DependentUpon>
+    </None>
+    <None Include="RC.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>RC.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Resources\Black7.jpg" />
+    <None Include="Resources\power.jpg" />
+    <None Include="Resources\power1.JPG" />
+    <None Include="Resources\1482781.jpg" />
+    <None Include="Resources\up.png" />
+    <None Include="Resources\up1.gif" />
+    <None Include="Resources\Search1.gif" />
+    <None Include="Resources\Load.gif" />
+    <None Include="Resources\Print.gif" />
+    <None Include="Resources\Save.gif" />
+    <None Include="Resources\Delete.gif" />
+    <None Include="Resources\Next.gif" />
+    <None Include="Resources\metal-wallpapers-2-610x381.jpg" />
+    <None Include="Resources\logo1.gif" />
+    <None Include="Resources\logo11.gif" />
+    <None Include="Resources\Export.gif" />
+    <None Include="Resources\LL206_big.jpg" />
+    <None Include="Resources\alive.gif" />
+    <None Include="Resources\bigstock-Colour-wheels-as-symbols-of-en-34342934.jpg" />
+    <None Include="Resources\Quality-Control.jpg" />
+    <None Include="Resources\back2.gif" />
+    <None Include="Resources\gears5.gif" />
+    <Content Include="logo1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

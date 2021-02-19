@@ -1,0 +1,750 @@
+D:\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+H:\20JULY\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+H:\20JULY\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+H:\20JULY\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+H:\20JULY\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+H:\20JULY\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+H:\20JULY\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\sbghadge.accdb
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\yogesh\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\sbghadge.accdb
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\yogesh\Adhav1\New Triel Copy\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\sbghadge.accdb
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\yogesh\Adhav1\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\Yogesh\New Folder\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\May-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\Yogesh\AUG-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+H:\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.AmtRptFrm.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Crp.PrintMeasurRPT.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+C:\D DRIVE\D Drive Data\Yogesh\OCT-17 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\D DRIVE\D Drive Data\Yogesh\MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\ResolveAssemblyReference.cache
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+D:\DATA\D DRIVE\D Drive Data\Yogesh\Copy of MaY-19 new copy\New Triel Copy1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe.config
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\Interop.VBIDE.dll
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.exe
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.pdb
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.exe
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\bin\Debug\SBGhadge1.pdb
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\bin\Debug\Interop.VBIDE.dll
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Amount.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.AmountSheet.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.bill.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.DemoForm.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.description.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.FlashScreen.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form1.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form2.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form3.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Form4.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.itemlist.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Login.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Main.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Measure.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.MeasurementSheet.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.PointCanvas .resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printAmount.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintAmountSheet.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Images.Printbill.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasure.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.printsumarysheet.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.Properties.Resources.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RCSHEET.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.RptItemSummary.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Search.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.Summary.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.SummarySheet.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateMeasure.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.UpdateRC1.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadge1.UserLogin.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.userSummary.resources
+C:\Users\sujanai037\Downloads\SBGhadge1\SBGhadge1\SBGhadge1\obj\Debug\SBGhadgev1.csproj.GenerateResource.Cache

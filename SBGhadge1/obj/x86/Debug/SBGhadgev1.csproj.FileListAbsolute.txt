@@ -1,0 +1,90 @@
+D:\SBGhadge1\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.exe.config
+D:\SBGhadge1\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.exe
+D:\SBGhadge1\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.pdb
+D:\SBGhadge1\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\SBGhadge1\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\SBGhadge1\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.VBIDE.dll
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.VBIDE.dll
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Amount.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.AmountSheet.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.bill.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.DemoForm.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.description.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.FlashScreen.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form1.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form2.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form3.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form4.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.itemlist.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.Login.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Main.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Measure.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.PointCanvas .resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.printAmount.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Images.Printbill.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.PrintMeasure.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.printsumarysheet.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.Properties.Resources.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.RCSHEET.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.RptItemSummary.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Search.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Summary.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.SummarySheet.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.UpdateRC1.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.UserLogin.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.userSummary.resources
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.exe
+D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.pdb
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.exe.config
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.VBIDE.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.ResolveComReference.cache
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.exe
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.pdb
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.exe
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.pdb
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.VBIDE.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Amount.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.AmountSheet.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.bill.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.DemoForm.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.description.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.FlashScreen.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form1.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form2.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form3.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Form4.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.itemlist.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.Login.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Main.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Measure.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.MeasurementSheet.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.PointCanvas .resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.printAmount.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.PrintAmountSheet.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Images.Printbill.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.PrintMeasure.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.PrintMeasurmentSheet.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.printsumarysheet.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.Properties.Resources.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.RCSHEET.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.RptItemSummary.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Search.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Summary.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.SummarySheet.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.UpdateMeasure.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.UpdateRC1.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.UserLogin.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.userSummary.resources
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.GenerateResource.Cache
