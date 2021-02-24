@@ -33,6 +33,7 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.tabPage2 = new System.Windows.Forms.TabPage();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.label6 = new System.Windows.Forms.Label();
             this.txtPo = new System.Windows.Forms.TextBox();
             this.btnexport = new System.Windows.Forms.Button();
@@ -46,7 +47,6 @@
             this.txtmno = new System.Windows.Forms.TextBox();
             this.dtpdate = new System.Windows.Forms.DateTimePicker();
             this.label3 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -56,7 +56,7 @@
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Location = new System.Drawing.Point(0, 176);
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(4);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(1267, 615);
@@ -65,9 +65,9 @@
             // tabPage1
             // 
             this.tabPage1.Location = new System.Drawing.Point(4, 25);
-            this.tabPage1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage1.Margin = new System.Windows.Forms.Padding(4);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(4);
             this.tabPage1.Size = new System.Drawing.Size(1259, 586);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "tabPage1";
@@ -76,9 +76,9 @@
             // tabPage2
             // 
             this.tabPage2.Location = new System.Drawing.Point(4, 25);
-            this.tabPage2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage2.Margin = new System.Windows.Forms.Padding(4);
             this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(4);
             this.tabPage2.Size = new System.Drawing.Size(1259, 586);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "tabPage2";
@@ -105,10 +105,20 @@
             this.panel1.Controls.Add(this.label3);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1267, 173);
+            this.panel1.Size = new System.Drawing.Size(1315, 173);
             this.panel1.TabIndex = 3;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(1043, 126);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(150, 41);
+            this.button1.TabIndex = 20;
+            this.button1.Text = "Export To CSV";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label6
             // 
@@ -125,7 +135,7 @@
             // txtPo
             // 
             this.txtPo.Location = new System.Drawing.Point(200, 122);
-            this.txtPo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtPo.Margin = new System.Windows.Forms.Padding(4);
             this.txtPo.Name = "txtPo";
             this.txtPo.Size = new System.Drawing.Size(132, 22);
             this.txtPo.TabIndex = 18;
@@ -137,7 +147,7 @@
             this.btnexport.BackgroundImage = global::SBGhadge1.Properties.Resources.Export;
             this.btnexport.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnexport.Location = new System.Drawing.Point(880, 126);
-            this.btnexport.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnexport.Margin = new System.Windows.Forms.Padding(4);
             this.btnexport.Name = "btnexport";
             this.btnexport.Size = new System.Drawing.Size(156, 43);
             this.btnexport.TabIndex = 17;
@@ -151,7 +161,7 @@
             this.btnprint.BackgroundImage = global::SBGhadge1.Properties.Resources.Print;
             this.btnprint.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnprint.Location = new System.Drawing.Point(737, 126);
-            this.btnprint.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnprint.Margin = new System.Windows.Forms.Padding(4);
             this.btnprint.Name = "btnprint";
             this.btnprint.Size = new System.Drawing.Size(113, 42);
             this.btnprint.TabIndex = 16;
@@ -217,7 +227,7 @@
             this.BtnSave.BackgroundImage = global::SBGhadge1.Properties.Resources.Save;
             this.BtnSave.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BtnSave.Location = new System.Drawing.Point(600, 128);
-            this.BtnSave.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BtnSave.Margin = new System.Windows.Forms.Padding(4);
             this.BtnSave.Name = "BtnSave";
             this.BtnSave.Size = new System.Drawing.Size(109, 39);
             this.BtnSave.TabIndex = 10;
@@ -231,7 +241,7 @@
             this.btnload.BackgroundImage = global::SBGhadge1.Properties.Resources.Load;
             this.btnload.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnload.Location = new System.Drawing.Point(460, 128);
-            this.btnload.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnload.Margin = new System.Windows.Forms.Padding(4);
             this.btnload.Name = "btnload";
             this.btnload.Size = new System.Drawing.Size(100, 41);
             this.btnload.TabIndex = 9;
@@ -243,7 +253,7 @@
             // txtmno
             // 
             this.txtmno.Location = new System.Drawing.Point(200, 76);
-            this.txtmno.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtmno.Margin = new System.Windows.Forms.Padding(4);
             this.txtmno.Name = "txtmno";
             this.txtmno.Size = new System.Drawing.Size(132, 22);
             this.txtmno.TabIndex = 8;
@@ -252,7 +262,7 @@
             // 
             this.dtpdate.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dtpdate.Location = new System.Drawing.Point(972, 100);
-            this.dtpdate.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dtpdate.Margin = new System.Windows.Forms.Padding(4);
             this.dtpdate.Name = "dtpdate";
             this.dtpdate.Size = new System.Drawing.Size(113, 22);
             this.dtpdate.TabIndex = 3;
@@ -269,16 +279,6 @@
             this.label3.TabIndex = 2;
             this.label3.Text = "Date";
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(1043, 126);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(150, 41);
-            this.button1.TabIndex = 20;
-            this.button1.Text = "Export To CSV";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // AmountSheet
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -287,10 +287,10 @@
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(1071, 757);
+            this.ClientSize = new System.Drawing.Size(1336, 757);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.panel1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "AmountSheet";
             this.Text = "AmountSheet";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;

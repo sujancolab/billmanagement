@@ -1033,12 +1033,28 @@ namespace SBGhadgev1
         { }
         }
 
+
+        
+
+
+
         private void button2_Click(object sender, EventArgs e)
         {
-            try
-            {
+            //try
+            //{
                 PrintMeasurmentSheet pm = new PrintMeasurmentSheet();
                 pm.tabControl1.TabPages.Clear();
+                // creating Excel Application  
+                Microsoft.Office.Interop.Excel._Application app = new Microsoft.Office.Interop.Excel.Application();
+                // creating new WorkBook within Excel application  
+                Microsoft.Office.Interop.Excel._Workbook workbook = app.Workbooks.Add(Type.Missing);
+                // creating new Excelsheet in workbook  
+                Microsoft.Office.Interop.Excel._Worksheet worksheet = null;
+                // see the excel sheet behind the program  
+                app.Visible = true;
+                // get the reference of first sheet. By default its name is Sheet1.  
+                // store its reference to worksheet  
+                
                 for (int i = 0; i < tabControl1.TabPages.Count; i++)
                 {
                     this.Text = "MeasurementSheet Printing" + (i + 1).ToString() + "/" + tabControl1.TabPages.Count.ToString();
@@ -1056,80 +1072,74 @@ namespace SBGhadgev1
                     string str = Convert.ToString(ds.Tables[0].Rows[0][0]);
                     g.DrawString(mm.txtplantno.Text, f, Brushes.Black, new Point(330, 165));
                     //dgvtocsv(mm.dataGridView1);
-                    ExtractDataToCSV(mm.dataGridView1);
+                    //ExtractDataToCSV(mm.dataGridView1);
+                    
+                    //workbook.Sheets.Add(worksheet);
+                    //worksheet = (Microsoft.Office.Interop.Excel.Worksheet)workbook.Sheets["Sheet"+i.ToString()];
+                    worksheet = (Microsoft.Office.Interop.Excel.Worksheet)workbook.ActiveSheet;
+                    // changing the name of active sheet  
+                    worksheet.Name = "sheet"+i.ToString();
+                    // storing header part in Excel  
+                    for (int j = 1; j < mm.dataGridView1.Columns.Count+1; j++)
+                    {
+                        worksheet.Cells[1, j] =mm. dataGridView1.Columns[j - 1].HeaderText;
+                    }
+                    // storing Each row and column value to excel sheet  
+                    for (int j = 0; j < mm.dataGridView1.Rows.Count - 1; j++)
+                    {
+                        for (int k = 0; k < mm.dataGridView1.Columns.Count; k++)
+                        {
+                            if (mm.dataGridView1.Rows[j].Cells[k].Value == null)
+                            {
+                                worksheet.Cells[j + 2, k + 1] = "";
+                            }
+                            else
+                            {
 
-                    //    for (int j = 0; j < mm.dataGridView1.Rows.Count; j++)
-                    //    {
-                    //        string s = Convert.ToString(mm.dataGridView1.Rows[j].Cells[0].Value);
-                    //        int flag = 0;
-                    //        //if (s.Length > 60)
-                    //        //{
-                    //        //    flag = 1;
-                    //        //    f = new System.Drawing.Font("Times New Roman", 18F);
-                    //        //}
-                    //        //else { f = new System.Drawing.Font("Times New Roman", 18F); }
-                    //        int kk = s.IndexOf('~');
-                    //        int kk1 = s.LastIndexOf('~');
-                    //        int Rowstart = 200;
-                    //        int RowHeight = 26;
-                    //        if (s.Contains("~"))
-                    //        {
-                    //            string s1 = s.Substring(0, kk);
-                    //            char[] ch = { '~' };
-                    //            string[] sub = s.Split(ch);
-                    //            int s1len = s1.Length;
-                    //            for (int k = 0; k < sub.Length; k++)
-                    //            {
-                    //                if (k == 0)
-                    //                {
-                    //                    g.DrawString(sub[k], f, Brushes.Black, new Point(130, (Rowstart + (j * RowHeight))));
-                    //                    s1len = 130 + Convert.ToInt32(g.MeasureString(sub[k], f).Width) + 10;
-                    //                }
-                    //                else
-                    //                {
-                    //                    g.DrawLine(new Pen(Brushes.Black), new Point(s1len, (Rowstart + 12 + (j * RowHeight))), new Point(s1len + 15, (Rowstart + 12 + (j * RowHeight))));
-                    //                    g.DrawString(sub[k], f, Brushes.Black, new Point(s1len + 25, (Rowstart + (j * RowHeight))));
-                    //                    s1len += 25 + Convert.ToInt32(g.MeasureString(sub[k], f).Width) + 10;
-                    //                }
-                    //            }
-                    //            //if (flag == 1)
-                    //            //{
-                    //            //    g.DrawString(s1, f, Brushes.Black, new Point(130, (130 + (j * 50))));
-                    //            //    g.DrawLine(new Pen(Brushes.Black), new Point(900, (250 + (j * 50))), new Point(950, (250 + (j * 50))));
-                    //            //    s1 = s.Substring(kk + 1);
-                    //            //    g.DrawString(s1, f, Brushes.Black, new Point(980, (240 + (j * 50))));
-                    //            //}
-                    //            //else
-                    //            //{
-                    //            //    SizeF sz = g.MeasureString(s1, f);
-                    //            //    g.DrawString(s1, f, Brushes.Black, new Point(130, (Rowstart + (j * RowHeight))));
-                    //            //    g.DrawLine(new Pen(Brushes.Black), new Point(130 + (int)sz.Width, (Rowstart + 12 + (j * RowHeight))), new Point(130 + (int)sz.Width + 25, (Rowstart + 12 + (j * RowHeight))));
-                    //            //    s1 = s.Substring(kk + 1);
-                    //            //    SizeF sz1 = g.MeasureString(s1, f);
-                    //            //    g.DrawString(s1, f, Brushes.Black, new Point(165 + (int)sz.Width, ((Rowstart + (j * RowHeight)))));
-                    //            //}
-                    //        }
-                    //        else
-                    //        {
-                    //            g.DrawString(s, f, Brushes.Black, new Point(130, (Rowstart + (j * RowHeight))));
-                    //        }
-                    //    }
-                    //    string path = Application.StartupPath + "\\Measurment\\";
-                    //    path = path.Replace("\\bin\\Debug", "");
-                    //    img1.Save(path + (i + 1).ToString() + ".jpg");
-                    //    PrintMeasure.s = path + (i + 1).ToString() + ".jpg";
-                    //    PrintMeasure m = new PrintMeasure();
-                    //    TabPage tp = new TabPage("Page" + (i + 1).ToString());
-                    //    tp.Controls.Add(m);
-                    //    pm.tabControl1.TabPages.Add(tp);
-                    //}
-                    //pm.ShowDialog();
+                                worksheet.Cells[j + 2, k + 1] = mm.dataGridView1.Rows[j].Cells[k].Value.ToString();
+                            }
+                        }
+                    }
+                    // save the application  
 
-                    //this.Text = "MeasurementSheet";
+                    workbook.Sheets.Add(worksheet);
                 }
-            }
-            catch (Exception ex)
-            { MessageBox.Show(ex.Message); }
+                workbook.SaveAs("c:\\output.xls", Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Microsoft.Office.Interop.Excel.XlSaveAsAccessMode.xlExclusive, Type.Missing, Type.Missing, Type.Missing, Type.Missing);
+                // Exit from the application  
+                app.Quit();  
+
+            //}
+            //catch (Exception ex)
+            //{ MessageBox.Show(ex.Message); }
+
+            //try
+            //{
+            //    PrintMeasurmentSheet pm = new PrintMeasurmentSheet();
+            //    pm.tabControl1.TabPages.Clear();
+            //    for (int i = 0; i < tabControl1.TabPages.Count; i++)
+            //    {
+            //        this.Text = "MeasurementSheet Printing" + (i + 1).ToString() + "/" + tabControl1.TabPages.Count.ToString();
+            //        Measure mm = (Measure)tabControl1.TabPages[i].Controls[0];
+            //        string _sourceFile = Application.StartupPath + "\\Images\\measurement1.jpg";
+            //        _sourceFile = _sourceFile.Replace("\\bin\\Debug", "");
+            //        Image img1 = System.Drawing.Image.FromFile(_sourceFile);
+            //        Graphics g = Graphics.FromImage(img1);
+            //        Font f = new System.Drawing.Font("Times New Roman", 14F);
+            //        string pgno = (i + 1).ToString();
+            //        g.DrawString(pgno, f, Brushes.Black, new Point(140, 165));
+            //        g.DrawString(mm.Mdate.Value.Date.ToString().Split()[0].Replace("/", "."), f, Brushes.Black, new Point(630, 165));
+            //        DataSet ds = majordal.getPlantNo(txtmno.Text);
+
+            //        string str = Convert.ToString(ds.Tables[0].Rows[0][0]);
+            //        g.DrawString(mm.txtplantno.Text, f, Brushes.Black, new Point(330, 165));
+            //        //dgvtocsv(mm.dataGridView1);
+            //        ExtractDataToCSV(mm.dataGridView1);
+
+
+            //    }
+            //}
+            //catch (Exception ex)
+            //{ MessageBox.Show(ex.Message); }
 
         }
         public void dgvtocsv(DataGridView dataGridView1)

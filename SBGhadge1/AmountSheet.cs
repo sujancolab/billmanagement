@@ -2001,167 +2001,227 @@ namespace SBGhadgev1
         {
             try
             {
+                PrintMeasurmentSheet pm = new PrintMeasurmentSheet();
+                pm.tabControl1.TabPages.Clear();
+                // creating Excel Application  
+                Microsoft.Office.Interop.Excel._Application app = new Microsoft.Office.Interop.Excel.Application();
+                // creating new WorkBook within Excel application  
+                Microsoft.Office.Interop.Excel._Workbook workbook = app.Workbooks.Add(Type.Missing);
+                // creating new Excelsheet in workbook  
+                Microsoft.Office.Interop.Excel._Worksheet worksheet = null;
+                // see the excel sheet behind the program  
+                app.Visible = true;
+                // get the reference of first sheet. By default its name is Sheet1.  
+                // store its reference to worksheet  
 
-                printAmount pa = new printAmount();
-                PrintAmountSheet ps = new PrintAmountSheet();
-                ps.tabControl1.TabPages.Clear();
-                double totalSum = 0;
-                int RowStart = 330;
-                int rowheight = 32;
                 for (int i = 0; i < tabControl1.TabPages.Count; i++)
                 {
-                    // totalSum = 0;
+                    this.Text = "MeasurementSheet Printing" + (i + 1).ToString() + "/" + tabControl1.TabPages.Count.ToString();
+                    Amount mm = (Amount)tabControl1.TabPages[i].Controls[0];//(Measure)tabControl1.TabPages[i].Controls[0];
+                    string _sourceFile = Application.StartupPath + "\\Images\\measurement1.jpg";
+                    _sourceFile = _sourceFile.Replace("\\bin\\Debug", "");
+                    Image img1 = System.Drawing.Image.FromFile(_sourceFile);
+                    Graphics g = Graphics.FromImage(img1);
+                    Font f = new System.Drawing.Font("Times New Roman", 14F);
+                    string pgno = (i + 1).ToString();
+                    
+                    DataSet ds = majordal.getPlantNo(txtmno.Text);
 
-                    //img1 = Image.FromFile(path1);
+                    string str = Convert.ToString(ds.Tables[0].Rows[0][0]);
+                    
 
-                    //Graphics g = null;
-                    //DataSet ds = majordal.getAmount(txtmno.Text,txtbillno.Text);
-                    //g = Graphics.FromImage(img1);
-                    Amount a = (Amount)tabControl1.TabPages[i].Controls[0];
-                    if (i == 13)
+                    worksheet = (Microsoft.Office.Interop.Excel.Worksheet)workbook.ActiveSheet;
+                    // changing the name of active sheet  
+                    worksheet.Name = "sheet" + i.ToString();
+                    // storing header part in Excel  
+                    for (int j = 1; j < mm.dataGridView1.Columns.Count + 1; j++)
                     {
-                        int jm = 0;
+                        worksheet.Cells[1, j] = mm.dataGridView1.Columns[j - 1].HeaderText;
                     }
-                    ExtractDataToCSV(a.dataGridView1);
-                    //    for (int j = 0; j < a.dataGridView1.Rows.Count; j++)
-                    //    {
-                    //        if (j > 34)
-                    //        { continue; }
-                    //        Font f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        if (Convert.ToString(a.dataGridView1.Rows[j].Cells[1].Value) == "")
-                    //        {
-                    //            f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        }
-                    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[0].Value), f, Brushes.Black, new System.Drawing.Point(10, RowStart + j * rowheight));
-                    //        SizeF sz1 = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[1].Value), f);
-                    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[1].Value), f, Brushes.Black, new System.Drawing.Point(95 - (int)(sz1.Width / 2), RowStart + j * rowheight));
-                    //        string desc = Convert.ToString(a.dataGridView1.Rows[j].Cells[2].Value);
-                    //        SizeF sz = g.MeasureString(desc, f);
-                    //        int f2 = 14;
-                    //        if (300 + sz.Width / 2 > 450)
-                    //        {
+                    // storing Each row and column value to excel sheet  
+                    for (int j = 0; j < mm.dataGridView1.Rows.Count - 1; j++)
+                    {
+                        for (int k = 0; k < mm.dataGridView1.Columns.Count; k++)
+                        {
+                            if (mm.dataGridView1.Rows[j].Cells[k].Value == null)
+                            {
+                                worksheet.Cells[j + 2, k + 1] = "";
+                            }
+                            else
+                            {
 
-                    //            while (300 + ((int)sz.Width / 2) > 450)
-                    //            {
-                    //                f = new System.Drawing.Font("Times New Roman", f2--, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                                worksheet.Cells[j + 2, k + 1] = mm.dataGridView1.Rows[j].Cells[k].Value.ToString();
+                            }
+                        }
+                    }
+                    // save the application  
 
-                    //                sz = g.MeasureString(desc, f);
-                    //            }
-                    //            //f = new System.Drawing.Font("Times New Roman", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        }
-
-                    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[2].Value), f, Brushes.Black, new System.Drawing.Point(300 - (int)(sz.Width / 2), RowStart + j * rowheight));
-                    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[3].Value), f);
-                    //        f2 = 14;
-                    //        while (485 + ((int)sz.Width / 2) > 530)
-                    //        {
-                    //            f2--;
-                    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-
-                    //            sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[3].Value), f);
-                    //        }
-                    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[3].Value), f, Brushes.Black, new System.Drawing.Point(485 - (int)(sz.Width / 2), RowStart + j * rowheight));
-                    //        //column 4
-                    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[4].Value), f);
-                    //        f2 = 14;
-                    //        while (565 + ((int)sz.Width / 2) > 600)
-                    //        {
-                    //            f2--;
-                    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-
-                    //            sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[4].Value), f);
-                    //        }
-
-                    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[4].Value), f, Brushes.Black, new System.Drawing.Point(565 - (int)(sz.Width / 2), RowStart + j * rowheight));
-                    //        //colomn 5
-                    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[5].Value), f);
-                    //        f2 = 14;
-                    //        while (630 + ((int)sz.Width / 2) > 670)
-                    //        {
-                    //            f2--;
-                    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-
-                    //            sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[5].Value), f);
-                    //        }
-
-                    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[5].Value), f, Brushes.Black, new System.Drawing.Point(630 - (int)(sz.Width / 2), RowStart + j * rowheight));
-
-                    //        //column 6
-                    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        sz = g.MeasureString(amounInWord.mk_Currancy(Convert.ToString(a.dataGridView1.Rows[j].Cells[6].Value)), f);
-                    //        f2 = 14;
-                    //        while (705 + ((int)sz.Width / 2) > 740)
-                    //        {
-                    //            f2--;
-                    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-
-                    //            sz = g.MeasureString(amounInWord.mk_Currancy(Convert.ToString(a.dataGridView1.Rows[j].Cells[6].Value)), f);
-                    //        }
-
-                    //        g.DrawString(amounInWord.mk_Currancy(Convert.ToString(a.dataGridView1.Rows[j].Cells[6].Value)), f, Brushes.Black, new System.Drawing.Point(705 - (int)(sz.Width / 2), RowStart + j * rowheight));
-                    //        // g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[7].Value), f, Brushes.Black, new System.Drawing.Point(680, RowStart + j * rowheight));
-                    //    }
-                    //    System.Drawing.Font f1 = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-
-                    //    // g.DrawString(a.lblpageTotal.Text, f1, Brushes.Brown, new System.Drawing.Point(1020, 2210));
-                    //    string path = "";
-                    //    if (i == tabControl1.TabPages.Count - 1 && tabControl1.TabPages.Count != 1)
-                    //    {
-                    //        path = System.Windows.Forms.Application.StartupPath + "\\Amount Sheet\\" + (i + 1) + ".jpg";
-                    //        a.lblpageTotal.Text = RoundAmount(totalSum.ToString());
-                    //        f1 = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        SizeF sz = g.MeasureString(a.lblpageTotal.Text, f1);
-
-                    //        g.DrawString(amounInWord.mk_Currancy(a.lblpageTotal.Text), f1, Brushes.Black, new System.Drawing.Point(670 - (int)sz.Width / 2, 970));
-
-                    //    }
-                    //    else
-                    //    {
-                    //        path = System.Windows.Forms.Application.StartupPath + "\\Amount Sheet\\" + (i + 1) + ".jpg";
-                    //        f1 = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //        SizeF sz = g.MeasureString(a.lblpageTotal.Text, f1);
-
-                    //        g.DrawString(amounInWord.mk_Currancy(a.lblpageTotal.Text), f1, Brushes.Black, new System.Drawing.Point(670 - (int)sz.Width / 2, 970));
-
-
-                    //        if (i <= lasttabcount)
-                    //        {
-                    //            totalSum += Convert.ToDouble(a.lblpageTotal.Text);
-                    //        }
-                    //    }
-                    //    for (int ki = 0; ki < a.richTextBox1.Lines.Length; ki++)
-                    //    {
-                    //        g.DrawString(a.richTextBox1.Lines[ki], f1, Brushes.Black, new System.Drawing.Point(35, 185 + (ki * 32)));
-                    //    }
-                    //    g.DrawString(a.txtPageno.Text, f1, Brushes.Black, new System.Drawing.Point(585, 155));
-                    //    g.DrawString(a.txtBillno.Text, f1, Brushes.Black, new System.Drawing.Point(585, 155 + (32)));
-                    //    //g.DrawString(a.txtdate.Text.Replace("/","."), f1, Brushes.Black, new System.Drawing.Point(585, 155 + (64)));
-                    //    f1 = new System.Drawing.Font("Times New Roman", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    //    g.DrawString(a.txtpono.Text, f1, Brushes.Black, new System.Drawing.Point(530, 155 + (96)));
-                    //    //path = path.Replace("\\bin\\x86\\Debug", "");
-                    //    //g.Save();
-                    //    img1.Save(path);
-                    //}
-
-                    //for (int i = 0; i < tabControl1.TabPages.Count; i++)
-                    //{
-
-                    //    path1 = Application.StartupPath + "\\Amount Sheet\\" + i.ToString() + ".jpg";
-                    //    //if (tabControl1.TabPages.Count == 1)
-                    //    //{ 
-                    //    path1 = Application.StartupPath + "\\Amount Sheet\\" + (i + 1).ToString() + ".jpg"; //}
-                    //    //path1 = path1.Replace("\\bin\\Debug", "");
-                    //    pa = new printAmount();
-                    //    pa.pictureBox1.Image = Image.FromFile(path1);
-                    //    pa.pictureBox1.ImageLocation = path1;
-
-                    //    ps.tabControl1.TabPages.Add("Page" + (i + 1).ToString());
-                    //    ps.tabControl1.TabPages[i].Controls.Add(pa);
-                    //}
+                    workbook.Sheets.Add(worksheet);
                 }
+                workbook.SaveAs("c:\\output.xls", Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Microsoft.Office.Interop.Excel.XlSaveAsAccessMode.xlExclusive, Type.Missing, Type.Missing, Type.Missing, Type.Missing);
+                // Exit from the application  
+                app.Quit();  
+
+                //printAmount pa = new printAmount();
+                //PrintAmountSheet ps = new PrintAmountSheet();
+                //ps.tabControl1.TabPages.Clear();
+                //double totalSum = 0;
+                //int RowStart = 330;
+                //int rowheight = 32;
+                //for (int i = 0; i < tabControl1.TabPages.Count; i++)
+                //{
+                //    // totalSum = 0;
+
+                //    //img1 = Image.FromFile(path1);
+
+                //    //Graphics g = null;
+                //    //DataSet ds = majordal.getAmount(txtmno.Text,txtbillno.Text);
+                //    //g = Graphics.FromImage(img1);
+                //    Amount a = (Amount)tabControl1.TabPages[i].Controls[0];
+                //    if (i == 13)
+                //    {
+                //        int jm = 0;
+                //    }
+                //    ExtractDataToCSV(a.dataGridView1);
+                //    //    for (int j = 0; j < a.dataGridView1.Rows.Count; j++)
+                //    //    {
+                //    //        if (j > 34)
+                //    //        { continue; }
+                //    //        Font f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        if (Convert.ToString(a.dataGridView1.Rows[j].Cells[1].Value) == "")
+                //    //        {
+                //    //            f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        }
+                //    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[0].Value), f, Brushes.Black, new System.Drawing.Point(10, RowStart + j * rowheight));
+                //    //        SizeF sz1 = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[1].Value), f);
+                //    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[1].Value), f, Brushes.Black, new System.Drawing.Point(95 - (int)(sz1.Width / 2), RowStart + j * rowheight));
+                //    //        string desc = Convert.ToString(a.dataGridView1.Rows[j].Cells[2].Value);
+                //    //        SizeF sz = g.MeasureString(desc, f);
+                //    //        int f2 = 14;
+                //    //        if (300 + sz.Width / 2 > 450)
+                //    //        {
+
+                //    //            while (300 + ((int)sz.Width / 2) > 450)
+                //    //            {
+                //    //                f = new System.Drawing.Font("Times New Roman", f2--, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+
+                //    //                sz = g.MeasureString(desc, f);
+                //    //            }
+                //    //            //f = new System.Drawing.Font("Times New Roman", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        }
+
+                //    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[2].Value), f, Brushes.Black, new System.Drawing.Point(300 - (int)(sz.Width / 2), RowStart + j * rowheight));
+                //    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[3].Value), f);
+                //    //        f2 = 14;
+                //    //        while (485 + ((int)sz.Width / 2) > 530)
+                //    //        {
+                //    //            f2--;
+                //    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+
+                //    //            sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[3].Value), f);
+                //    //        }
+                //    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[3].Value), f, Brushes.Black, new System.Drawing.Point(485 - (int)(sz.Width / 2), RowStart + j * rowheight));
+                //    //        //column 4
+                //    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[4].Value), f);
+                //    //        f2 = 14;
+                //    //        while (565 + ((int)sz.Width / 2) > 600)
+                //    //        {
+                //    //            f2--;
+                //    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+
+                //    //            sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[4].Value), f);
+                //    //        }
+
+                //    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[4].Value), f, Brushes.Black, new System.Drawing.Point(565 - (int)(sz.Width / 2), RowStart + j * rowheight));
+                //    //        //colomn 5
+                //    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[5].Value), f);
+                //    //        f2 = 14;
+                //    //        while (630 + ((int)sz.Width / 2) > 670)
+                //    //        {
+                //    //            f2--;
+                //    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+
+                //    //            sz = g.MeasureString(Convert.ToString(a.dataGridView1.Rows[j].Cells[5].Value), f);
+                //    //        }
+
+                //    //        g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[5].Value), f, Brushes.Black, new System.Drawing.Point(630 - (int)(sz.Width / 2), RowStart + j * rowheight));
+
+                //    //        //column 6
+                //    //        f = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        sz = g.MeasureString(amounInWord.mk_Currancy(Convert.ToString(a.dataGridView1.Rows[j].Cells[6].Value)), f);
+                //    //        f2 = 14;
+                //    //        while (705 + ((int)sz.Width / 2) > 740)
+                //    //        {
+                //    //            f2--;
+                //    //            f = new System.Drawing.Font("Times New Roman", f2, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+
+                //    //            sz = g.MeasureString(amounInWord.mk_Currancy(Convert.ToString(a.dataGridView1.Rows[j].Cells[6].Value)), f);
+                //    //        }
+
+                //    //        g.DrawString(amounInWord.mk_Currancy(Convert.ToString(a.dataGridView1.Rows[j].Cells[6].Value)), f, Brushes.Black, new System.Drawing.Point(705 - (int)(sz.Width / 2), RowStart + j * rowheight));
+                //    //        // g.DrawString(Convert.ToString(a.dataGridView1.Rows[j].Cells[7].Value), f, Brushes.Black, new System.Drawing.Point(680, RowStart + j * rowheight));
+                //    //    }
+                //    //    System.Drawing.Font f1 = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+
+                //    //    // g.DrawString(a.lblpageTotal.Text, f1, Brushes.Brown, new System.Drawing.Point(1020, 2210));
+                //    //    string path = "";
+                //    //    if (i == tabControl1.TabPages.Count - 1 && tabControl1.TabPages.Count != 1)
+                //    //    {
+                //    //        path = System.Windows.Forms.Application.StartupPath + "\\Amount Sheet\\" + (i + 1) + ".jpg";
+                //    //        a.lblpageTotal.Text = RoundAmount(totalSum.ToString());
+                //    //        f1 = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        SizeF sz = g.MeasureString(a.lblpageTotal.Text, f1);
+
+                //    //        g.DrawString(amounInWord.mk_Currancy(a.lblpageTotal.Text), f1, Brushes.Black, new System.Drawing.Point(670 - (int)sz.Width / 2, 970));
+
+                //    //    }
+                //    //    else
+                //    //    {
+                //    //        path = System.Windows.Forms.Application.StartupPath + "\\Amount Sheet\\" + (i + 1) + ".jpg";
+                //    //        f1 = new System.Drawing.Font("Times New Roman", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Regular))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //        SizeF sz = g.MeasureString(a.lblpageTotal.Text, f1);
+
+                //    //        g.DrawString(amounInWord.mk_Currancy(a.lblpageTotal.Text), f1, Brushes.Black, new System.Drawing.Point(670 - (int)sz.Width / 2, 970));
+
+
+                //    //        if (i <= lasttabcount)
+                //    //        {
+                //    //            totalSum += Convert.ToDouble(a.lblpageTotal.Text);
+                //    //        }
+                //    //    }
+                //    //    for (int ki = 0; ki < a.richTextBox1.Lines.Length; ki++)
+                //    //    {
+                //    //        g.DrawString(a.richTextBox1.Lines[ki], f1, Brushes.Black, new System.Drawing.Point(35, 185 + (ki * 32)));
+                //    //    }
+                //    //    g.DrawString(a.txtPageno.Text, f1, Brushes.Black, new System.Drawing.Point(585, 155));
+                //    //    g.DrawString(a.txtBillno.Text, f1, Brushes.Black, new System.Drawing.Point(585, 155 + (32)));
+                //    //    //g.DrawString(a.txtdate.Text.Replace("/","."), f1, Brushes.Black, new System.Drawing.Point(585, 155 + (64)));
+                //    //    f1 = new System.Drawing.Font("Times New Roman", 11F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+                //    //    g.DrawString(a.txtpono.Text, f1, Brushes.Black, new System.Drawing.Point(530, 155 + (96)));
+                //    //    //path = path.Replace("\\bin\\x86\\Debug", "");
+                //    //    //g.Save();
+                //    //    img1.Save(path);
+                //    //}
+
+                //    //for (int i = 0; i < tabControl1.TabPages.Count; i++)
+                //    //{
+
+                //    //    path1 = Application.StartupPath + "\\Amount Sheet\\" + i.ToString() + ".jpg";
+                //    //    //if (tabControl1.TabPages.Count == 1)
+                //    //    //{ 
+                //    //    path1 = Application.StartupPath + "\\Amount Sheet\\" + (i + 1).ToString() + ".jpg"; //}
+                //    //    //path1 = path1.Replace("\\bin\\Debug", "");
+                //    //    pa = new printAmount();
+                //    //    pa.pictureBox1.Image = Image.FromFile(path1);
+                //    //    pa.pictureBox1.ImageLocation = path1;
+
+                //    //    ps.tabControl1.TabPages.Add("Page" + (i + 1).ToString());
+                //    //    ps.tabControl1.TabPages[i].Controls.Add(pa);
+                //    //}
+                //}
                 //ps.ShowDialog();
             }
             catch (Exception ex)

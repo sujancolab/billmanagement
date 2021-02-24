@@ -44,17 +44,15 @@ D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.GenerateResourc
 D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.exe
 D:\SBGhadge1\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.pdb
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.exe.config
-D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
-D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
-D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.VBIDE.dll
-D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.ResolveComReference.cache
-D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.exe
-D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.pdb
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.exe
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\SBGhadge1.pdb
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.Microsoft.Office.Core.dll
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\bin\x86\Debug\Interop.VBIDE.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\Interop.VBIDE.dll
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.ResolveComReference.cache
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Amount.resources
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.AmountSheet.resources
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.bill.resources
@@ -88,3 +86,5 @@ D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.Upda
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.UserLogin.resources
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.userSummary.resources
 D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadgev1.csproj.GenerateResource.Cache
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.exe
+D:\C#\SBGhadge1 Complete Solve\SBGhadge1\SBGhadge1\obj\x86\Debug\SBGhadge1.pdb
