@@ -2010,7 +2010,7 @@ namespace SBGhadgev1
                 // creating new Excelsheet in workbook  
                 Microsoft.Office.Interop.Excel._Worksheet worksheet = null;
                 // see the excel sheet behind the program  
-                app.Visible = true;
+                //app.Visible = true;
                 // get the reference of first sheet. By default its name is Sheet1.  
                 // store its reference to worksheet  
 
@@ -2058,8 +2058,13 @@ namespace SBGhadgev1
 
                     workbook.Sheets.Add(worksheet);
                 }
-                workbook.SaveAs("c:\\output.xls", Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Microsoft.Office.Interop.Excel.XlSaveAsAccessMode.xlExclusive, Type.Missing, Type.Missing, Type.Missing, Type.Missing);
-                // Exit from the application  
+                SaveFileDialog sv1 = new SaveFileDialog();
+                if(sv1.ShowDialog()==DialogResult.OK){
+
+                workbook.SaveAs(sv1.FileName, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Type.Missing, Microsoft.Office.Interop.Excel.XlSaveAsAccessMode.xlExclusive, Type.Missing, Type.Missing, Type.Missing, Type.Missing);
+                // Exit from the application 
+                MessageBox.Show("Excel file saved successfully");
+                }
                 app.Quit();  
 
                 //printAmount pa = new printAmount();
